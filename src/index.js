@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import C3 from './components/C3';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import C from './components/C';
 
 ReactDOM.render(
   <React.StrictMode>
-    <C />
+    <C3 />
   </React.StrictMode>,
   document.getElementById('root')
 );
