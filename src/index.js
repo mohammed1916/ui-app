@@ -1,12 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import C3 from './components/C3';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
+import Yellow from './components/Yellow';
+import Green from './components/Green';
+import Blue from './components/Blue';
+import Red from './components/Red';
 
 ReactDOM.render(
   <React.StrictMode>
-    <C3 />
+    <Yellow />
+    <Green />
+    <Blue />
+    <Red />
   </React.StrictMode>,
   document.getElementById('root')
 );
