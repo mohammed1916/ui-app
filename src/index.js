@@ -1,13 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Dashboard from './components/Dashboard';
+import C from './components/C';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Dashboard />
+    <C />
   </React.StrictMode>,
   document.getElementById('root')
 );
