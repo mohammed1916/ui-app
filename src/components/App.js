@@ -1,7 +1,9 @@
-import HelloWorld from "./HelloWorld";
+import B from "./B";
 
-export default function App(){
-    return(
-        <HelloWorld/>
+export default function App() {
+    return (
+        <>
+            <B />
+        </>
     );
 }
