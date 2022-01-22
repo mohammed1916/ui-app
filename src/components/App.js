@@ -1,9 +1,7 @@
-import A2 from "./A2";
+import M2 from "./M2";
 
 export default function App() {
     return (
-        <>
-            <A2 />
-        </>
-    );
+        <M2 />
+    )
 }
