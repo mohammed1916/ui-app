@@ -12,10 +12,10 @@ export default function A1(props){
     }
 
     return(
-        <center>
+
             <h2>
                 {computeGreater(props.a,props.b,props.c)}
             </h2>
-        </center>
+
     );
 }
