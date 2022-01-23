@@ -1,5 +1,9 @@
 import Sample from "../Task 2/Sample";
 
+/**
+ * @tutorial import this component as " import App from './Assignment-task/Variable/Task 2/App' "
+ * @returns 'Sample' component to demonstrate 'Property Destructuring'
+ */
 export default function App(){
     
     return(
