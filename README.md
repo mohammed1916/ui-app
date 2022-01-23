@@ -1,8 +1,8 @@
 
 # TalentPy Assignments
 
-This repository contains the solutions to the assignments mentioned in [TalentPy Website](http://talent-ui.herokuapp.com/),\
-which were given after each session from the `TalentPy program`.
+This repository contains the solutions to the assignments from `TalentPy program`,\
+which were given after each session.
 
 ## Running the program
 
