@@ -6,7 +6,7 @@ which were given after each session from the `TalentPy program`.
 
 ## Running the program
 
-Include the `index.js` required the required component as mentioned in the commemts
+Include the required component as mentioned in the commemts from 'Assignment-task' in the `index.js` file.
 
 In the project directory, you can run:
 ### `npm start`
