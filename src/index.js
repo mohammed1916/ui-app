@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './Assignment-task/state-hook/1/App'
+import App from './Assignment-task/state-hook/2/App'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
